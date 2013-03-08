@@ -5,13 +5,14 @@
   <artifactId>moxie-common</artifactId>
   <!-- project versioning -->
   <versioning>
-    <latest>0.6.1</latest>
-    <release>0.6.1</release>
+    <latest>0.6.2</latest>
+    <release>0.6.2</release>
     <!-- versions-->
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
+      <version>0.6.2</version>
     </versions>
-    <lastUpdated>20130306170049</lastUpdated>
+    <lastUpdated>20130308223906</lastUpdated>
   </versioning>
 </metadata>
