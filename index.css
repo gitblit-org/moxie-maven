@@ -1,0 +1,7 @@
+.hero-unit {
+    background-color: #4E004E;
+	color: white;
+}
+.hero-unit > p {
+	color: #ddd;
+}

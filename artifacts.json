@@ -7,10 +7,10 @@
   "version": "0.5.0",
   "date": "2013-02-13",
   "files": {
-    "pom": "org/moxie/common/0.5.0/common-0.5.0.pom",
-    "package": "org/moxie/common/0.5.0/common-0.5.0.jar",
-    "sources": "org/moxie/common/0.5.0/common-0.5.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/common/0.5.0/common-0.5.0.pom" },
+    "package": { "path": "org/moxie/common/0.5.0/common-0.5.0.jar", "size":"85 KB" },
+    "sources": { "path": "org/moxie/common/0.5.0/common-0.5.0-sources.jar", "size":"43 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -21,10 +21,10 @@
   "version": "0.5.0",
   "date": "2013-02-13",
   "files": {
-    "pom": "org/moxie/maxml/0.5.0/maxml-0.5.0.pom",
-    "package": "org/moxie/maxml/0.5.0/maxml-0.5.0.jar",
-    "sources": "org/moxie/maxml/0.5.0/maxml-0.5.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/maxml/0.5.0/maxml-0.5.0.pom" },
+    "package": { "path": "org/moxie/maxml/0.5.0/maxml-0.5.0.jar", "size":"19 KB" },
+    "sources": { "path": "org/moxie/maxml/0.5.0/maxml-0.5.0-sources.jar", "size":"12 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -35,10 +35,10 @@
   "version": "0.6.0",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/maxml/0.6.0/maxml-0.6.0.pom",
-    "package": "org/moxie/maxml/0.6.0/maxml-0.6.0.jar",
-    "sources": "org/moxie/maxml/0.6.0/maxml-0.6.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/maxml/0.6.0/maxml-0.6.0.pom" },
+    "package": { "path": "org/moxie/maxml/0.6.0/maxml-0.6.0.jar", "size":"23 KB" },
+    "sources": { "path": "org/moxie/maxml/0.6.0/maxml-0.6.0-sources.jar", "size":"14 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -49,10 +49,10 @@
   "version": "0.6.1",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/maxml/0.6.1/maxml-0.6.1.pom",
-    "package": "org/moxie/maxml/0.6.1/maxml-0.6.1.jar",
-    "sources": "org/moxie/maxml/0.6.1/maxml-0.6.1-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/maxml/0.6.1/maxml-0.6.1.pom" },
+    "package": { "path": "org/moxie/maxml/0.6.1/maxml-0.6.1.jar", "size":"23 KB" },
+    "sources": { "path": "org/moxie/maxml/0.6.1/maxml-0.6.1-sources.jar", "size":"14 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -63,10 +63,10 @@
   "version": "0.6.2",
   "date": "2013-03-08",
   "files": {
-    "pom": "org/moxie/maxml/0.6.2/maxml-0.6.2.pom",
-    "package": "org/moxie/maxml/0.6.2/maxml-0.6.2.jar",
-    "sources": "org/moxie/maxml/0.6.2/maxml-0.6.2-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/maxml/0.6.2/maxml-0.6.2.pom" },
+    "package": { "path": "org/moxie/maxml/0.6.2/maxml-0.6.2.jar", "size":"23 KB" },
+    "sources": { "path": "org/moxie/maxml/0.6.2/maxml-0.6.2-sources.jar", "size":"14 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -77,10 +77,10 @@
   "version": "0.5.0",
   "date": "",
   "files": {
-    "pom": "org/moxie/moxie+ant/0.5.0/moxie+ant-0.5.0.pom",
-    "package": "",
-    "sources": "",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie+ant/0.5.0/moxie+ant-0.5.0.pom" },
+    "package": { "path": "", "size":"" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -91,10 +91,10 @@
   "version": "0.6.0",
   "date": "",
   "files": {
-    "pom": "org/moxie/moxie+ant/0.6.0/moxie+ant-0.6.0.pom",
-    "package": "",
-    "sources": "",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie+ant/0.6.0/moxie+ant-0.6.0.pom" },
+    "package": { "path": "", "size":"" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -105,10 +105,10 @@
   "version": "0.6.1",
   "date": "",
   "files": {
-    "pom": "org/moxie/moxie+ant/0.6.1/moxie+ant-0.6.1.pom",
-    "package": "",
-    "sources": "",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie+ant/0.6.1/moxie+ant-0.6.1.pom" },
+    "package": { "path": "", "size":"" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -119,10 +119,10 @@
   "version": "0.6.2",
   "date": "",
   "files": {
-    "pom": "org/moxie/moxie+ant/0.6.2/moxie+ant-0.6.2.pom",
-    "package": "",
-    "sources": "",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie+ant/0.6.2/moxie+ant-0.6.2.pom" },
+    "package": { "path": "", "size":"" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -133,10 +133,10 @@
   "version": "0.6.0",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/moxie-common/0.6.0/moxie-common-0.6.0.pom",
-    "package": "org/moxie/moxie-common/0.6.0/moxie-common-0.6.0.jar",
-    "sources": "org/moxie/moxie-common/0.6.0/moxie-common-0.6.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-common/0.6.0/moxie-common-0.6.0.pom" },
+    "package": { "path": "org/moxie/moxie-common/0.6.0/moxie-common-0.6.0.jar", "size":"100 KB" },
+    "sources": { "path": "org/moxie/moxie-common/0.6.0/moxie-common-0.6.0-sources.jar", "size":"48 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -147,10 +147,10 @@
   "version": "0.6.1",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/moxie-common/0.6.1/moxie-common-0.6.1.pom",
-    "package": "org/moxie/moxie-common/0.6.1/moxie-common-0.6.1.jar",
-    "sources": "org/moxie/moxie-common/0.6.1/moxie-common-0.6.1-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-common/0.6.1/moxie-common-0.6.1.pom" },
+    "package": { "path": "org/moxie/moxie-common/0.6.1/moxie-common-0.6.1.jar", "size":"100 KB" },
+    "sources": { "path": "org/moxie/moxie-common/0.6.1/moxie-common-0.6.1-sources.jar", "size":"48 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -161,10 +161,10 @@
   "version": "0.6.2",
   "date": "2013-03-08",
   "files": {
-    "pom": "org/moxie/moxie-common/0.6.2/moxie-common-0.6.2.pom",
-    "package": "org/moxie/moxie-common/0.6.2/moxie-common-0.6.2.jar",
-    "sources": "org/moxie/moxie-common/0.6.2/moxie-common-0.6.2-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-common/0.6.2/moxie-common-0.6.2.pom" },
+    "package": { "path": "org/moxie/moxie-common/0.6.2/moxie-common-0.6.2.jar", "size":"100 KB" },
+    "sources": { "path": "org/moxie/moxie-common/0.6.2/moxie-common-0.6.2-sources.jar", "size":"48 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -175,10 +175,10 @@
   "version": "0.6.0",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/moxie-proxy/0.6.0/moxie-proxy-0.6.0.pom",
-    "package": "org/moxie/moxie-proxy/0.6.0/moxie-proxy-0.6.0.jar",
-    "sources": "org/moxie/moxie-proxy/0.6.0/moxie-proxy-0.6.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-proxy/0.6.0/moxie-proxy-0.6.0.pom" },
+    "package": { "path": "org/moxie/moxie-proxy/0.6.0/moxie-proxy-0.6.0.jar", "size":"293 KB" },
+    "sources": { "path": "org/moxie/moxie-proxy/0.6.0/moxie-proxy-0.6.0-sources.jar", "size":"159 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -189,10 +189,10 @@
   "version": "0.6.1",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/moxie-proxy/0.6.1/moxie-proxy-0.6.1.pom",
-    "package": "org/moxie/moxie-proxy/0.6.1/moxie-proxy-0.6.1.jar",
-    "sources": "org/moxie/moxie-proxy/0.6.1/moxie-proxy-0.6.1-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-proxy/0.6.1/moxie-proxy-0.6.1.pom" },
+    "package": { "path": "org/moxie/moxie-proxy/0.6.1/moxie-proxy-0.6.1.jar", "size":"293 KB" },
+    "sources": { "path": "org/moxie/moxie-proxy/0.6.1/moxie-proxy-0.6.1-sources.jar", "size":"159 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -203,10 +203,10 @@
   "version": "0.6.2",
   "date": "2013-03-08",
   "files": {
-    "pom": "org/moxie/moxie-proxy/0.6.2/moxie-proxy-0.6.2.pom",
-    "package": "org/moxie/moxie-proxy/0.6.2/moxie-proxy-0.6.2.jar",
-    "sources": "org/moxie/moxie-proxy/0.6.2/moxie-proxy-0.6.2-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-proxy/0.6.2/moxie-proxy-0.6.2.pom" },
+    "package": { "path": "org/moxie/moxie-proxy/0.6.2/moxie-proxy-0.6.2.jar", "size":"293 KB" },
+    "sources": { "path": "org/moxie/moxie-proxy/0.6.2/moxie-proxy-0.6.2-sources.jar", "size":"159 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -217,10 +217,10 @@
   "version": "0.6.0",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/moxie-toolkit/0.6.0/moxie-toolkit-0.6.0.pom",
-    "package": "org/moxie/moxie-toolkit/0.6.0/moxie-toolkit-0.6.0.jar",
-    "sources": "org/moxie/moxie-toolkit/0.6.0/moxie-toolkit-0.6.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-toolkit/0.6.0/moxie-toolkit-0.6.0.pom" },
+    "package": { "path": "org/moxie/moxie-toolkit/0.6.0/moxie-toolkit-0.6.0.jar", "size":"652 KB" },
+    "sources": { "path": "org/moxie/moxie-toolkit/0.6.0/moxie-toolkit-0.6.0-sources.jar", "size":"431 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -231,10 +231,10 @@
   "version": "0.6.1",
   "date": "2013-03-06",
   "files": {
-    "pom": "org/moxie/moxie-toolkit/0.6.1/moxie-toolkit-0.6.1.pom",
-    "package": "org/moxie/moxie-toolkit/0.6.1/moxie-toolkit-0.6.1.jar",
-    "sources": "org/moxie/moxie-toolkit/0.6.1/moxie-toolkit-0.6.1-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-toolkit/0.6.1/moxie-toolkit-0.6.1.pom" },
+    "package": { "path": "org/moxie/moxie-toolkit/0.6.1/moxie-toolkit-0.6.1.jar", "size":"652 KB" },
+    "sources": { "path": "org/moxie/moxie-toolkit/0.6.1/moxie-toolkit-0.6.1-sources.jar", "size":"431 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -245,10 +245,10 @@
   "version": "0.6.2",
   "date": "2013-03-08",
   "files": {
-    "pom": "org/moxie/moxie-toolkit/0.6.2/moxie-toolkit-0.6.2.pom",
-    "package": "org/moxie/moxie-toolkit/0.6.2/moxie-toolkit-0.6.2.jar",
-    "sources": "org/moxie/moxie-toolkit/0.6.2/moxie-toolkit-0.6.2-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/moxie-toolkit/0.6.2/moxie-toolkit-0.6.2.pom" },
+    "package": { "path": "org/moxie/moxie-toolkit/0.6.2/moxie-toolkit-0.6.2.jar", "size":"686 KB" },
+    "sources": { "path": "org/moxie/moxie-toolkit/0.6.2/moxie-toolkit-0.6.2-sources.jar", "size":"465 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -259,10 +259,10 @@
   "version": "0.5.0",
   "date": "2013-02-13",
   "files": {
-    "pom": "org/moxie/proxy/0.5.0/proxy-0.5.0.pom",
-    "package": "org/moxie/proxy/0.5.0/proxy-0.5.0.jar",
-    "sources": "",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/proxy/0.5.0/proxy-0.5.0.pom" },
+    "package": { "path": "org/moxie/proxy/0.5.0/proxy-0.5.0.jar", "size":"276 KB" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
    }
 },
 {
@@ -273,9 +273,9 @@
   "version": "0.5.0",
   "date": "",
   "files": {
-    "pom": "org/moxie/toolkit/0.5.0/toolkit-0.5.0.pom",
-    "package": "",
-    "sources": "org/moxie/toolkit/0.5.0/toolkit-0.5.0-sources.jar",
-    "javadoc": ""
+    "pom": { "path": "org/moxie/toolkit/0.5.0/toolkit-0.5.0.pom" },
+    "package": { "path": "", "size":"" },
+    "sources": { "path": "org/moxie/toolkit/0.5.0/toolkit-0.5.0-sources.jar", "size":"170 KB" },
+    "javadoc": { "path": "", "size":"" }
    }
 }]
