@@ -5,15 +5,16 @@
   <artifactId>moxie+ant</artifactId>
   <!-- project versioning -->
   <versioning>
-    <latest>0.6.2</latest>
-    <release>0.6.2</release>
+    <latest>0.7.0</latest>
+    <release>0.7.0</release>
     <!-- versions-->
     <versions>
       <version>0.5.0</version>
       <version>0.6.0</version>
       <version>0.6.1</version>
       <version>0.6.2</version>
+      <version>0.7.0</version>
     </versions>
-    <lastUpdated>20130308223849</lastUpdated>
+    <lastUpdated>20130326020819</lastUpdated>
   </versioning>
 </metadata>
