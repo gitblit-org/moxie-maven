@@ -99,6 +99,20 @@
    }
 },
 {
+  "name": "Moxie-Maxml",
+  "description": "a parser for Maxml, a YAML-like format",
+  "groupId": "org.moxie",
+  "artifactId": "maxml",
+  "version": "0.7.2",
+  "date": "2013-04-10",
+  "files": {
+    "pom": { "path": "org/moxie/maxml/0.7.2/maxml-0.7.2.pom" },
+    "package": { "path": "org/moxie/maxml/0.7.2/maxml-0.7.2.jar", "size":"23 KB" },
+    "sources": { "path": "org/moxie/maxml/0.7.2/maxml-0.7.2-sources.jar", "size":"14 KB" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
   "name": "Moxie+Ant",
   "description": "Moxie+Ant distribution",
   "groupId": "org.moxie",
@@ -183,6 +197,20 @@
    }
 },
 {
+  "name": "Moxie+Ant",
+  "description": "Moxie+Ant distribution",
+  "groupId": "org.moxie",
+  "artifactId": "moxie+ant",
+  "version": "0.7.2",
+  "date": "2013-04-10",
+  "files": {
+    "pom": { "path": "org/moxie/moxie+ant/0.7.2/moxie+ant-0.7.2.pom" },
+    "package": { "path": "org/moxie/moxie+ant/0.7.2/moxie+ant-0.7.2.zip", "size":"10.8 MB" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
   "name": "Moxie-Common",
   "description": "common classes for Moxie",
   "groupId": "org.moxie",
@@ -249,6 +277,20 @@
     "pom": { "path": "org/moxie/moxie-common/0.7.1/moxie-common-0.7.1.pom" },
     "package": { "path": "org/moxie/moxie-common/0.7.1/moxie-common-0.7.1.jar", "size":"109 KB" },
     "sources": { "path": "org/moxie/moxie-common/0.7.1/moxie-common-0.7.1-sources.jar", "size":"56 KB" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
+  "name": "Moxie-Common",
+  "description": "common classes for Moxie",
+  "groupId": "org.moxie",
+  "artifactId": "moxie-common",
+  "version": "0.7.2",
+  "date": "2013-04-10",
+  "files": {
+    "pom": { "path": "org/moxie/moxie-common/0.7.2/moxie-common-0.7.2.pom" },
+    "package": { "path": "org/moxie/moxie-common/0.7.2/moxie-common-0.7.2.jar", "size":"110 KB" },
+    "sources": { "path": "org/moxie/moxie-common/0.7.2/moxie-common-0.7.2-sources.jar", "size":"56 KB" },
     "javadoc": { "path": "", "size":"" }
    }
 },
@@ -323,6 +365,20 @@
    }
 },
 {
+  "name": "Moxie-Proxy",
+  "description": "a Maven 2-compatible artifact server and artifact proxy",
+  "groupId": "org.moxie",
+  "artifactId": "moxie-proxy",
+  "version": "0.7.2",
+  "date": "2013-04-10",
+  "files": {
+    "pom": { "path": "org/moxie/moxie-proxy/0.7.2/moxie-proxy-0.7.2.pom" },
+    "package": { "path": "org/moxie/moxie-proxy/0.7.2/moxie-proxy-0.7.2.zip", "size":"6.6 MB" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
   "name": "Moxie-Toolkit",
   "description": "a Java build toolkit for ANT",
   "groupId": "org.moxie",
@@ -389,6 +445,20 @@
     "pom": { "path": "org/moxie/moxie-toolkit/0.7.1/moxie-toolkit-0.7.1.pom" },
     "package": { "path": "org/moxie/moxie-toolkit/0.7.1/moxie-toolkit-0.7.1.jar", "size":"507 KB" },
     "sources": { "path": "org/moxie/moxie-toolkit/0.7.1/moxie-toolkit-0.7.1-sources.jar", "size":"271 KB" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
+  "name": "Moxie-Toolkit",
+  "description": "a Java build toolkit for ANT",
+  "groupId": "org.moxie",
+  "artifactId": "moxie-toolkit",
+  "version": "0.7.2",
+  "date": "2013-04-10",
+  "files": {
+    "pom": { "path": "org/moxie/moxie-toolkit/0.7.2/moxie-toolkit-0.7.2.pom" },
+    "package": { "path": "org/moxie/moxie-toolkit/0.7.2/moxie-toolkit-0.7.2.jar", "size":"508 KB" },
+    "sources": { "path": "org/moxie/moxie-toolkit/0.7.2/moxie-toolkit-0.7.2-sources.jar", "size":"271 KB" },
     "javadoc": { "path": "", "size":"" }
    }
 },
