@@ -5,8 +5,8 @@
   <artifactId>moxie-proxy</artifactId>
   <!-- project versioning -->
   <versioning>
-    <latest>0.7.3</latest>
-    <release>0.7.3</release>
+    <latest>0.7.4</latest>
+    <release>0.7.4</release>
     <!-- versions-->
     <versions>
       <version>0.6.0</version>
@@ -16,7 +16,8 @@
       <version>0.7.1</version>
       <version>0.7.2</version>
       <version>0.7.3</version>
+      <version>0.7.4</version>
     </versions>
-    <lastUpdated>20130426140650</lastUpdated>
+    <lastUpdated>20130426152031</lastUpdated>
   </versioning>
 </metadata>
