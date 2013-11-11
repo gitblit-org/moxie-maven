@@ -1,7 +1,7 @@
 {
   "name": "Moxie Build Toolkit",
   "description": "a Java build toolkit for ANT",
-  "id": "org.moxie",
-  "affinity": "org.moxie",
+  "id": "com.gitblit.moxie",
+  "affinity": "com.gitblit.moxie",
   "projectUrl": "http://moxie.gitblit.com"
 }
