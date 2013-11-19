@@ -1,6 +1,76 @@
 [
 
 {
+  "name": "Moxie-Maxml",
+  "description": "a parser for Maxml, a YAML-like format",
+  "groupId": "com.gitblit.moxie",
+  "artifactId": "maxml",
+  "version": "0.9.0",
+  "date": "2013-11-19",
+  "files": {
+    "pom": { "path": "com/gitblit/moxie/maxml/0.9.0/maxml-0.9.0.pom" },
+    "package": { "path": "com/gitblit/moxie/maxml/0.9.0/maxml-0.9.0.jar", "size":"24 KB" },
+    "sources": { "path": "com/gitblit/moxie/maxml/0.9.0/maxml-0.9.0-sources.jar", "size":"14 KB" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
+  "name": "Moxie+Ant",
+  "description": "Moxie+Ant distribution",
+  "groupId": "com.gitblit.moxie",
+  "artifactId": "moxie+ant",
+  "version": "0.9.0",
+  "date": "2013-11-19",
+  "files": {
+    "pom": { "path": "com/gitblit/moxie/moxie+ant/0.9.0/moxie+ant-0.9.0.pom" },
+    "package": { "path": "com/gitblit/moxie/moxie+ant/0.9.0/moxie+ant-0.9.0.zip", "size":"11.1 MB" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
+  "name": "Moxie-Common",
+  "description": "common classes for Moxie",
+  "groupId": "com.gitblit.moxie",
+  "artifactId": "moxie-common",
+  "version": "0.9.0",
+  "date": "2013-11-19",
+  "files": {
+    "pom": { "path": "com/gitblit/moxie/moxie-common/0.9.0/moxie-common-0.9.0.pom" },
+    "package": { "path": "com/gitblit/moxie/moxie-common/0.9.0/moxie-common-0.9.0.jar", "size":"114 KB" },
+    "sources": { "path": "com/gitblit/moxie/moxie-common/0.9.0/moxie-common-0.9.0-sources.jar", "size":"58 KB" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
+  "name": "Moxie-Proxy",
+  "description": "a Maven 2-compatible artifact server and artifact proxy",
+  "groupId": "com.gitblit.moxie",
+  "artifactId": "moxie-proxy",
+  "version": "0.9.0",
+  "date": "2013-11-19",
+  "files": {
+    "pom": { "path": "com/gitblit/moxie/moxie-proxy/0.9.0/moxie-proxy-0.9.0.pom" },
+    "package": { "path": "com/gitblit/moxie/moxie-proxy/0.9.0/moxie-proxy-0.9.0.zip", "size":"6.6 MB" },
+    "sources": { "path": "", "size":"" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
+  "name": "Moxie-Toolkit",
+  "description": "a Java build toolkit for ANT",
+  "groupId": "com.gitblit.moxie",
+  "artifactId": "moxie-toolkit",
+  "version": "0.9.0",
+  "date": "2013-11-19",
+  "files": {
+    "pom": { "path": "com/gitblit/moxie/moxie-toolkit/0.9.0/moxie-toolkit-0.9.0.pom" },
+    "package": { "path": "com/gitblit/moxie/moxie-toolkit/0.9.0/moxie-toolkit-0.9.0.jar", "size":"579 KB" },
+    "sources": { "path": "com/gitblit/moxie/moxie-toolkit/0.9.0/moxie-toolkit-0.9.0-sources.jar", "size":"282 KB" },
+    "javadoc": { "path": "", "size":"" }
+   }
+},
+{
   "name": "Moxie-Common",
   "description": "Common classes for Moxie",
   "groupId": "org.moxie",
