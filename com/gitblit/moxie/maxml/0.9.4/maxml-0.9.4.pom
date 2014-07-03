@@ -1,0 +1,56 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.gitblit.moxie</groupId>
+  <artifactId>maxml</artifactId>
+  <version>0.9.4</version>
+  <packaging>jar</packaging>
+  <name>Moxie-Maxml</name>
+  <description>a parser for Maxml, a YAML-like format</description>
+  <organization><name>James Moger</name><url>https://plus.google.com/u/0/+JamesMoger</url></organization>
+  <url>http://moxie.gitblit.com</url>
+  <inceptionYear>2012</inceptionYear>
+
+  <licenses>
+    <license>
+      <name>Apache ASL</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:git://github.com/gitblit/moxie.git</connection>
+    <developerConnection>scm:git:https://github.com/gitblit/moxie.git</developerConnection>
+    <url>https://github.com/gitblit/moxie</url>
+    <tag>HEAD</tag>
+  </scm>
+
+  <developers>
+    <developer>
+      <id>james</id>
+      <name>James Moger</name>
+      <email>james.moger@gmail.com</email>
+      <url>https://plus.google.com/u/0/116428776452027956920</url>
+      <organization>VAS</organization>
+      <organizationUrl>http://www.vas.com</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+
+  <dependencies>
+  	<!-- test dependencies -->
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>6.8</version>
+      <type>jar</type>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+</project>
+
